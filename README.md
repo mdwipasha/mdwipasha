@@ -1,30 +1,19 @@
 # 👋 Halo, gue Pasha!
 
-Gue seorang **web developer** yang suka membangun hal-hal berguna di web — mulai dari project kecil sampai aplikasi yang bisa dipakai beneran.  
-Sekarang lagi fokus ngembangin project **Web Booking Lapangan** dan terus belajar biar makin jago di dunia web development. 🚀
+Gue seorang **web developer** yang suka membangun hal-hal berguna melalui web — mulai dari project kecil sampai aplikasi yang bisa dipakai beneran.  
 
 ---
 
 ### 🧰 Tech Stack
-> Alat tempur yang sering gue pakai
-
-- **Languages:** PHP, HTML, CSS, JavaScript  
-- **Frameworks & Tools:** Laravel, TailwindCSS, Alpine.js  
-- **Database:** MySQL  
-- **Other Interests:** Web3, UI/UX Design, Freelance Development
+  
+- **Frameworks & Tools:** Laravel, TailwindCSS, Filament  
+- **Database:** MySQL & PostgreSQL 
+- **Other Interests:** Web3 / Blockchain Developer & Data Scientist
 
 ---
 
 ### 💡 Project yang Lagi Gue Garap
-- ⚙️ [Web Booking Lapangan](https://github.com/mdwipasha/web-booking-lapangan) — aplikasi booking lapangan berbasis Laravel & TailwindCSS
-
----
-
-### 🎯 Goals & Fokus Saat Ini
-- Naikin skill Laravel & JavaScript  
-- Bangun portofolio web dev yang solid  
-- Mulai freelance dan dapetin project pertama  
-- Eksplor dunia Web3 & teknologi baru  
+- ⚙️ [Web Booking Lapangan](https://github.com/mdwipasha/web-booking-lapangan)
 
 ---
 
@@ -38,8 +27,7 @@ Sekarang lagi fokus ngembangin project **Web Booking Lapangan** dan terus belaja
 
 ### 🤝 Terhubung
 > Kalau lo punya project menarik atau pengin kolaborasi, feel free buat reach out 😄  
-📬 **Email:** (lo bisa tambahin sendiri nanti)  
-🌐 **Website / Portfolio:** (kalau udah punya, tambahin juga di sini)
+📬 **Email:** mdwipasha13@gmail.com  
 
 ---
 
