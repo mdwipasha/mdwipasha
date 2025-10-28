@@ -1,6 +1,6 @@
 # 👋 Halo, gue Pasha!
 
-Gue seorang **web developer** yang suka membangun hal-hal berguna melalui web — mulai dari project kecil sampai aplikasi yang bisa dipakai beneran.  
+Gue **Tech Entusiast** yang suka membangun hal-hal berguna melalui web — mulai dari project kecil sampai aplikasi yang bisa dipakai beneran.  
 
 ---
 
