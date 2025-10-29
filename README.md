@@ -28,7 +28,3 @@ Gue **Tech Entusiast** yang suka membangun hal-hal berguna melalui web — mulai
 ### 🤝 Terhubung
 > Kalau lo punya project menarik atau pengin kolaborasi, feel free buat reach out 😄  
 📬 **Email:** mdwipasha13@gmail.com  
-
----
-
-✨ *“Bangun sesuatu yang bermanfaat, bukan cuma yang kelihatan keren.”*
