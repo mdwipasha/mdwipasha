@@ -1,6 +1,4 @@
-# 👋 Halo, gue Pasha!
-
-Gue **Tech Entusiast** yang suka membangun hal-hal melalui code.  
+# 👋 Pashaaa!
 
 ---
 
@@ -20,5 +18,4 @@ Gue **Tech Entusiast** yang suka membangun hal-hal melalui code.
 ---
 
 ### 🤝 Terhubung
-> Kalau lo punya project menarik atau pengin kolaborasi, feel free buat reach out 😄  
 📬 **Email:** mdwipasha13@gmail.com  
