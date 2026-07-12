@@ -1,11 +1,6 @@
-<h1 align="center">Hey, I'm Capa (Pasha) 👋</h1>
+<h1 align="center">Hey, I'm Capa (Pasha)</h1>
 
 ---
-
-### 🔭 Currently building
-
-- **Pasha Archive** — a personal photo & memory archive app with a neo-brutalist design system (Astro + React, Supabase, Cloudinary)
-- Interesting to **Web3 / Blockchain** development 
 
 ### 🧰 Tech Stack
 
@@ -27,6 +22,9 @@
 | [cerdik-quiz](https://github.com/mdwipasha/cerdik-quiz) | An interactive web-based quiz app inspired by platforms like Quizizz. | Laravel Breeze, Filament, Tailwindcss, MySQL | Completed |
 | [party-neraka-community-web](https://github.com/mdwipasha/party-neraka-community-web) | A fan-made community site showcasing member info and activities. | Laravel, Filament, Tailwindcss, MySQL, Youtube Data Api V3 | Completed |
 | [web-booking-lapangan](https://github.com/mdwipasha/web-booking-lapangan) | A web for booking sports fields online. | Laravel Breeze, Filament, Tailwindcss, MySQL, Midtrans Payment Gateway | In Development |
+| [platform-bot-whatsapp](https://github.com/mdwipasha/platform-bot-whatsapp) | A platform bot whatsapp. | Bailey JS, Node JS, HTML, CSS | In Development |
+| [caphotobooth](https://github.com/mdwipasha/caphotobooth) | A web photobooth online with gestures detection. | Astro, React, Typescript, Tailwindcss, Mediapipe | Completed |
+| [roblox-framework-phone](https://github.com/mdwipasha/roblox-framework-phone) | A realistic phone system for roblox. | Lua, Rojo | In Development |
 
 ### 🤝 Let's Connect
 
