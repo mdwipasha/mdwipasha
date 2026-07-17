@@ -1,5 +1,9 @@
 <h1 align="center">Hey, I'm Capa (Pasha)</h1>
 
+<p align="center">
+  Web Developer | Digital Analytics QA | Google Analytics | Tech Enthusiast 
+</p>
+
 ---
 
 ### 🧰 Tech Stack
@@ -30,6 +34,7 @@
 
 <p>
   <a href="mailto:mdwipasha13@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mdwipasha" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" /></a>
   <a href="https://instagram.com/mdpashaaa" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://instagram.com/capa.blade.pehape" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
